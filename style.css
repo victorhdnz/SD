@@ -26,6 +26,7 @@
 
 body {
   background: var(--bg-url) no-repeat top center/cover;
+  height: 100vh;
 }
 
 body * {
@@ -89,7 +90,6 @@ body * {
   backdrop-filter: blur (4px);
   -webkit-backdrop-filter: blur(4px);
   border-radius: 9999px;
-
 }
 
 ul {
@@ -144,4 +144,14 @@ footer {
   padding: 24px 0;
   text-align: center;
   font-size: 14px;
+}
+
+@media (min-width: 700px) {
+  :root {
+    --bg-url: url(./Assets/degrade-pc.png);
+  }
+
+  .light {
+    --bg-url: url(./Assets/degradebranco-pc.png);
+  }
 }
