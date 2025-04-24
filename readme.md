@@ -19,4 +19,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## ⚙️ Projeto
 
-O VLinks é um agregador de links para usar como cartão de visitas online.
+O VLinks é um agregador de links para ser usado como cartão de visitas online.
+
+[Acesse a versão final do projeto, online](https://victorhdnz.github.io/VLinks/)
