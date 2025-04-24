@@ -5,7 +5,7 @@
 }
 
 :root {
-  --text-color: black;
+  --text-color: white;
   --bg-url: url(./Assets/degrade.jpg);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.1);
@@ -15,7 +15,7 @@
 }
 
 .light {
-  --text-color: white;
+  --text-color: black;
   --bg-url: url(./Assets/degrade-branco.jpg);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.1);
@@ -78,7 +78,7 @@ body * {
 }
 
 .light #switch button {
-  animation: slide-in 0.4s forwards;
+  animation: slide-in 0.2s forwards;
 }
 
 #switch button:hover {
