@@ -11,14 +11,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 
-- JavaScript
-
 - Git e Github
 
 - Figma
 
 ## ⚙️ Projeto
 
-O VLinks é um agregador de links para ser usado como cartão de visitas online.
+Agregador de links para  a distribuidora SD.
 
-[Acesse a versão final do projeto, online](https://victorhdnz.github.io/VLinks/)
+[Acesse a versão final do projeto, online](https://victorhdnz.github.io/SD/)
