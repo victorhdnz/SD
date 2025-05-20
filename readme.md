@@ -1,10 +1,10 @@
-<h1 align="center">VLinks</h1>
+<h1 align="center">Agregador de links</h1>
 
 <p align="center">
   <img alt="capa projeto de links" src=".github/preview.png"
   width="100%">
 </p>
-
+  
 ## 💻 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
